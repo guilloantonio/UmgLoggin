@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UmgLoggin</string>
+    <string name="txt1">user:</string>
+    <string name="txt2">password:</string>
+    <string name="ok">OK</string>
+
+
+</resources>
